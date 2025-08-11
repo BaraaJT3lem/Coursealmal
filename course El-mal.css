@@ -1,0 +1,42 @@
+body {
+  background-color: powderblue;
+}
+
+#top_border {
+  border: #2354bd solid 1px;
+  border-radius: 10px 10px 0px 0px;
+  margin: 5% 5% 0% 5%;
+  background-color: #2354bd;
+  padding: 2%;
+  
+}
+ div {
+   border: white solid 1px;
+   background-color: white;
+   border-radius: 0px 0px 10px 10px;
+   margin: 0% 5% 5% 5%;
+   padding: 5%;
+ }
+ 
+ h1 {
+   text-align-last: center;
+ }
+ 
+ img {
+   display: block;
+   margin: 0 auto;
+ }
+
+#mini_list {
+  list-style-type: circle;
+}
+
+a {
+  border: #2354bd solid 1px;
+  background-color: #2354bd;
+  border-radius: 20px;
+  padding:5px;
+  color: white;
+  text-decoration: none;
+  margin-left: 70%;
+}
